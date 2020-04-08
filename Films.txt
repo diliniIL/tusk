@@ -2,7 +2,7 @@
 
 Welcom :)
 
-'FILMS'
+'FILMS' and 'Characters'
 
 HarryPtter
 Avengers
@@ -21,4 +21,4 @@ Thank You :)
 Done my changes
 
 Finished
-
+Characters
